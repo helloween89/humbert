@@ -16,3 +16,13 @@ display: block;
 .spacesdiv2{
     margin-top: 2em;
 }
+.posbuttonslider {
+    position: relative;
+    float: right;
+    right: 10%;
+    top: 20px;
+}
+.spacebuttons{
+    width: 100%;
+    margin-left: 0px;
+}
